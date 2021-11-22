@@ -1,5 +1,6 @@
 import React from 'react';
 import './TodoTemplate.scss';
+import TodoInsert from './TodoInsert';
 
 const TodoTemplate = ({ children }) => {
   return (
